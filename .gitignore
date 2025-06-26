@@ -1,0 +1,69 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Компиляция и сборка
+target/
+build/
+
+# Логи
+*.log
+
+# Файлы настроек среды
+*.ipr
+
+# Системные файлы
+Thumbs.db
+
+# Maven
+.settings/
+.mvn/
+repository/
+
+# Файлы тестовых отчетов
+test-output/
+
+# Файлы сессий и локальные настройки
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Другие временные файлы
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
